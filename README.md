@@ -58,26 +58,6 @@ status    ── ✦ caffeinated ☕
 
 <hr>
 
-<h3>୨୧ github stats</h3>
-
-<div align="left">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=florchiexco&theme=github_dark&title_color=FF7BAC&text_color=FFFFFF&icon_color=FF7BAC&bg_color=00000000&border_color=00000000"
-  alt="flor's github stats"
-  height="180"
-/>
-
-<br><br>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=florchiexco&theme=github_dark&title_color=FF7BAC&text_color=FFFFFF&icon_color=FF7BAC&chart_color=FF7BAC&bg_color=00000000&border_color=00000000"
-  alt="flor's top languages"
-  height="180"
-/>
-
-</div>
-
 <br>
 
 <hr>
