@@ -54,12 +54,6 @@ testing   ── ✦ everything
 status    ── ✦ caffeinated ☕
 </pre>
 
-<br>
-
-<hr>
-
-<br>
-
 <hr>
 
 <br>
