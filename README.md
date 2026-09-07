@@ -31,21 +31,21 @@
 <p><b>languages</b></p>
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-FFF0F5?style=for-the-badge&logo=javascript&logoColor=D9789F" alt="JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-FFF0F5?style=for-the-badge&logo=javascript&logoColor=FF7BAC" alt="JavaScript">
   &nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-FFF0F5?style=for-the-badge&logo=typescript&logoColor=D9789F" alt="TypeScript">
+  <img src="https://img.shields.io/badge/TypeScript-FFF0F5?style=for-the-badge&logo=typescript&logoColor=FF7BAC" alt="TypeScript">
   &nbsp;
-  <img src="https://img.shields.io/badge/Java-FFF0F5?style=for-the-badge&logo=openjdk&logoColor=D9789F" alt="Java">
+  <img src="https://img.shields.io/badge/Java-FFF0F5?style=for-the-badge&logo=openjdk&logoColor=FF7BAC" alt="Java">
 </p>
 
 <p><b>testing & automation</b></p>
 
 <p>
-  <img src="https://img.shields.io/badge/Selenium-FFF0F5?style=for-the-badge&logo=selenium&logoColor=D9789F" alt="Selenium">
+  <img src="https://img.shields.io/badge/Selenium-FFF0F5?style=for-the-badge&logo=selenium&logoColor=FF7BAC" alt="Selenium">
   &nbsp;
-  <img src="https://img.shields.io/badge/Playwright-FFF0F5?style=for-the-badge&logo=playwright&logoColor=D9789F" alt="Playwright">
+  <img src="https://img.shields.io/badge/Playwright-FFF0F5?style=for-the-badge&logo=playwright&logoColor=FF7BAC" alt="Playwright">
   &nbsp;
-  <img src="https://img.shields.io/badge/Cypress-FFF0F5?style=for-the-badge&logo=cypress&logoColor=D9789F" alt="Cypress">
+  <img src="https://img.shields.io/badge/Cypress-FFF0F5?style=for-the-badge&logo=cypress&logoColor=FF7BAC" alt="Cypress">
 </p>
 
 <br>
@@ -67,28 +67,20 @@ status    ── ✦ caffeinated ☕
 
 <h3>୨୧ github stats</h3>
 
-<div align="center">
+<div align="left">
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=florchiexco&theme=transparent&title_color=D9789F&text_color=9C6B7B&icon_color=D9789F&chart_color=D9789F"
-  alt="flor's github activity"
-  width="700"
-/>
-
-<br><br>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=florchiexco&theme=transparent&title_color=D9789F&text_color=9C6B7B&icon_color=D9789F&hide_logo=true"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=florchiexco&theme=github_dark&title_color=FF7BAC&text_color=FFFFFF&icon_color=FF7BAC&bg_color=00000000&border_color=00000000"
   alt="flor's github stats"
-  width="420"
+  height="180"
 />
 
 <br><br>
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=florchiexco&theme=transparent&title_color=D9789F&text_color=9C6B7B&icon_color=D9789F&chart_color=D9789F"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=florchiexco&theme=github_dark&title_color=FF7BAC&text_color=FFFFFF&icon_color=FF7BAC&chart_color=FF7BAC&bg_color=00000000&border_color=00000000"
   alt="flor's top languages"
-  width="420"
+  height="180"
 />
 
 </div>
