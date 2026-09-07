@@ -28,19 +28,12 @@
 
 <h3>୨୧ tech stack</h3>
 
-<p><b>languages</b></p>
-
 <p>
   <img src="https://img.shields.io/badge/JavaScript-FFF0F5?style=for-the-badge&logo=javascript&logoColor=FF7BAC" alt="JavaScript">
   &nbsp;
   <img src="https://img.shields.io/badge/TypeScript-FFF0F5?style=for-the-badge&logo=typescript&logoColor=FF7BAC" alt="TypeScript">
   &nbsp;
   <img src="https://img.shields.io/badge/Java-FFF0F5?style=for-the-badge&logo=openjdk&logoColor=FF7BAC" alt="Java">
-</p>
-
-<p><b>testing & automation</b></p>
-
-<p>
   <img src="https://img.shields.io/badge/Selenium-FFF0F5?style=for-the-badge&logo=selenium&logoColor=FF7BAC" alt="Selenium">
   &nbsp;
   <img src="https://img.shields.io/badge/Playwright-FFF0F5?style=for-the-badge&logo=playwright&logoColor=FF7BAC" alt="Playwright">
