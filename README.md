@@ -6,8 +6,9 @@
 
 <pre>
 ୨୧  developer
-୨୧  qa & automation
+୨୧  qa automation
 ୨୧  professional bug creator
+୨୧  ai enthusiast
 </pre>
 
 </div>
@@ -34,6 +35,7 @@
   <img src="https://img.shields.io/badge/TypeScript-FFF0F5?style=for-the-badge&logo=typescript&logoColor=FF7BAC" alt="TypeScript">
   &nbsp;
   <img src="https://img.shields.io/badge/Java-FFF0F5?style=for-the-badge&logo=openjdk&logoColor=FF7BAC" alt="Java">
+  &nbsp;
   <img src="https://img.shields.io/badge/Selenium-FFF0F5?style=for-the-badge&logo=selenium&logoColor=FF7BAC" alt="Selenium">
   &nbsp;
   <img src="https://img.shields.io/badge/Playwright-FFF0F5?style=for-the-badge&logo=playwright&logoColor=FF7BAC" alt="Playwright">
